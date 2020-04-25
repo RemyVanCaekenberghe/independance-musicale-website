@@ -9,3 +9,5 @@ image:
 Bienvenue sur le site de la Société Royale « l'Indépendance Musicale » de Waterloo.
 
 Pour davantage d'informations: [A propos de l'Indépendance Musicale](/a-propos/)
+
+Toutes les informations concernant [notre centenaire](/centenaire/)
